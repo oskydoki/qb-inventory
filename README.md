@@ -1,5 +1,7 @@
 # 🧰 qb-inventory (Modified Version)
 
+Discord for Support  : https://discord.gg/6FTXP9e4P7
+
 This is a customized version of `qb-inventory` for the QBCore framework. It introduces major improvements:
 
 - 💸 **Cash as an inventory item**  
@@ -43,3 +45,4 @@ In your `qb-core/shared/items.lua`, insert the following:
     close = true,
     server = false
 },
+
