@@ -45,4 +45,9 @@ In your `qb-core/shared/items.lua`, insert the following:
     close = true,
     server = false
 },
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/911199bc-1017-44cc-b74c-34a7b0a9c696" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/41654add-c569-4297-bf7e-1bc7209d61cc" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/b4754e5b-b18d-4a72-8da2-e229d296f9ad" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e11c8dac-1d24-4903-b6ac-c89e86afe0db" />
+
 
